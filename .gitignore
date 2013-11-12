@@ -1,0 +1,35 @@
+# Ignore base files
+.htaccess
+index.php
+license.txt
+readme.html
+sitemap.xml
+sitemap.xml.gz
+*.log
+wp-*.php
+xmlrpc.php
+
+# Ignore core directories
+wp-admin/
+wp-includes/
+
+# Ignore data and junk files
+*.DS_Store
+.sass-cache/
+*Thumbs.DB
+
+# Ignore some wp-content files
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/cache/
+wp-content/backups/
+wp-content/plugins/
+wp-content/.htaccess
+wp-content/advanced-cache.php
+wp-content/db.php
+wp-content/object-cache.php
+wp-content/wp-cache-config.php
+
+# Unignore specific files & directories

@@ -1,3 +1,6 @@
 [submodule "wp-content/themes/roots"]
 	path = wp-content/themes/roots
 	url = https://github.com/roots/roots.git
+[submodule "wp-content/themes/_s"]
+	path = wp-content/themes/_s
+	url = https://github.com/Automattic/_s.git
